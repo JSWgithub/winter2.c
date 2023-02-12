@@ -1,4 +1,4 @@
 #include <stdio.h>
 int main() {
-	printf("æ»≥Á");
+	printf("æ»≥Á«œººø‰");
 }
