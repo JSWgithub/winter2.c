@@ -1,4 +1,6 @@
 #include <stdio.h>
 int main() {
-	printf("�ȳ��ϼ���");
+	printf("¾È³çÇÏ¼¼¿ä");
+	
+	
 }
