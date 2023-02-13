@@ -33,5 +33,8 @@
     <ClCompile Include="sangwook.c">
       <Filter>리소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="tree.c">
+      <Filter>리소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
